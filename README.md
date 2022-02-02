@@ -1,5 +1,6 @@
 [ENG]
-Description of the task:
+<br>
+<h3> Description of the task: </h3>
 
 1)  User should indicate a desired number of threads (number between 2 and 15, not more or less) in the Form.
 
@@ -11,10 +12,11 @@ Description of the task:
 
 5)  Upon pressing the "Stop" button, the application stops running and threads are disabled. 
 
-
-
+<br>
+<br>
 [LT]
-Užduoties aprašymas:
+<br>
+<h3> Užduoties aprašymas: </h3>
 
 1)  Formoje vartotojas gali nurodyti kintamą kiekį thread (atšakos) (Nuo 2 iki 15, kiekis negali būti didesnis ar mažesnis).
 
